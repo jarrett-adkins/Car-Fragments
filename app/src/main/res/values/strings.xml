@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarsWithFragments</string>
+    <string name="add_car_fragment_model">Model:</string>
+    <string name="add_car_fragment_button">Add Car</string>
+    <string name="add_car_fragment_year">Year:</string>
+    <string name="add_car_fragment_type">Type:</string>
+</resources>
